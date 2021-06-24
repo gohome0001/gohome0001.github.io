@@ -1,15 +1,20 @@
 ---
 layout: post
 title: "About"
-author: "Chester"
+author: "gohome0001"
 permalink: /about/
 ---
 
-A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
+## whoami
 
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. Unfortunately, most of the themes were too modern. Eventually, I caved and begun working on my own theme. With the help of [Poole](https://github.com/poole/poole), the Jekyll Butler, I was able to build **Tale**.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fDkgezFYAZ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Contribute
-Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
+백예린, 아이유 빠돌이..?
 
-Thanks for reading!
+## 블로그 목적
+
+사실은 남들처럼 멋들어지게 블로그를 만들어서, 하나의 어필 요소로 있으면 어떨까 싶었다.
+
+근데 그냥..뭔가 내 스타일이 아니라 생각돼서 자유도 높은 공간으로 활용할듯 하다.
+
+<span style="color:grey">~~생각 쓰레기통~~</span>
