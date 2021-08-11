@@ -9,12 +9,16 @@ permalink: /about/
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fDkgezFYAZ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-백예린, 아이유 빠돌이..?
+:email: [hakyongch@gmail.com](mailto:hakyongch@gmail.com)
+
+### 추천 태그
+
+`self`
 
 ## 블로그 목적
 
-사실은 남들처럼 멋들어지게 블로그를 만들어서, 하나의 어필 요소로 있으면 어떨까 싶었다.
+남들처럼 멋들어지게 블로그를 만들어서, 하나의 어필 요소로 있으면 어떨까 싶었다.
 
-근데 그냥..뭔가 내 스타일이 아니라 생각돼서 자유도 높은 공간으로 활용할듯 하다.
+하지만 그런 글들로만 채우기보다는, 자유도 높은 공간으로 활용하고 싶다.
 
 <span style="color:grey">~~생각 쓰레기통~~</span>
