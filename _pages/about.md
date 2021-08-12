@@ -13,7 +13,7 @@ permalink: /about/
 
 ### 추천 태그
 
-`self`
+- <a href="{{ '/tags/#self' | prepend: site.baseurl }}">self</a>
 
 ## 블로그 목적
 
