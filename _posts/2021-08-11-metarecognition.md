@@ -2,7 +2,7 @@
 layout: post
 title: "실패 회고"
 author: "gohome0001"
-tag: self
+tags: self
 ---
 
 # 메타 인지
