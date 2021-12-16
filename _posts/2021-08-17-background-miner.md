@@ -2,7 +2,7 @@
 layout: post
 title: "광고 대신 채굴?"
 author: "gohome0001"
-tags: , project-outline, background-miner
+tags: project-outline, background-miner
 ---
 
 ## 프로젝트 구상 계기
